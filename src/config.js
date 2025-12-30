@@ -103,7 +103,6 @@ export const FIELD_OPTIONS_DOUYIN = [
   { key: 'collect_count', label: '收藏数', required: false },
   { key: 'share_count', label: '转发数', required: false },
   { key: 'comment_count', label: '评论数', required: false },
-  { key: 'play_count', label: '播放数', required: false },
   { key: 'goods_data', label: '带货商品数据', required: false },
   { key: 'create_time', label: '作品创建时间', required: false },
   { key: 'author_id', label: '作者ID', required: false },
